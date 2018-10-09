@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/connect.png</file>
+        <file>Images/disconnect.png</file>
+        <file>Images/settings.png</file>
+        <file>Images/clean.png</file>
+        <file>Images/save.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Images/splash.png</file>
+        <file>Images/icon.ico</file>
+    </qresource>
+</RCC>
